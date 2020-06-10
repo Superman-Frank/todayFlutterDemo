@@ -37,7 +37,7 @@ class HomePage extends StatelessWidget{
       appBar: AppBar(title: Text(
         '首页',
         style: TextStyle(
-          color: Colors.pink,
+          color: Colors.red,
         ),
       ),
       backgroundColor: MyAppThemeColor,),
